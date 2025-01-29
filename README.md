@@ -1,7 +1,11 @@
 ## Hello            
 
-My name is Bernabé, I am a Multimedia Enginner and passionate about Backend Development and Machine Learning.
+My name is Bernabé, I am an AI Researcher and PhD Student for the Department of Information Technology and Computing (DTIC) at the University of Alicante.
 
+## Academics
+* Graduate in Multimedia Engineering.
+* Master's Degree in Artificial Intelligence.
+  
 ## Skills   
 
 * Experience developing APIs with Node/Express.js.
