@@ -8,8 +8,8 @@ My name is Bernabé, I am an AI Researcher and PhD Student for the Department of
   
 ## Skills   
 
-* Experience developing APIs with Node/Express.js.
-* Good understanding of Python 2/3.
-* Nice problem solving mindset, specially Deep Learning ones.
-* Knowledge in SQL databases (MySQL) and NoSQL (MongoDB).
-* Basic knowledge on Docker containers and Cloud.
+* Python3
+* Pytorch
+* Computer Vision
+* Transformers
+* Multimodal AI
